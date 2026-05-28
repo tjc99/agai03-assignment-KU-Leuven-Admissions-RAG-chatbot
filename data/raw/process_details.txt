@@ -1,0 +1,53 @@
+Source URL: https://www.kuleuven.be/english/apply/application-instructions/application-details
+
+Overview of the KU Leuven application process
+Disclaimer
+: The image shown is for illustration purposes only.
+Processing applications
+Applications are handled by Case Administrators who inspect the files for completeness and correctness, based on the general admission requirements of KU Leuven on language proficiency and on the specific admission requirements imposed by the academic programmes.
+Applications are then further inspected by our team of qualified Credential Evaluators who examine the authenticity and content of the diplomas and transcripts submitted. Our Credential Evaluators have specialised, expert knowledge on the systems of education of various countries and are familiar with the major local languages. They can still request additional documents if they consider them necessary for the evaluation of your application.
+The Admissions Office then co-ordinates with the different Faculties and Doctoral Schools within KU Leuven for the academic evaluation of each application that may result in the granting of admission.
+Where applications for admission to a doctoral (Ph.D.) programme is concerned, an intermediate step is included. The application file should first be approved by the prospective thesis supervisor (or promoter, as this professor is usually called at KU Leuven) before the application file can be forwarded to the doctoral committee within the faculty.
+Processing time
+After you've submitted your application, you will receive a confirmation email. The approval process varies from case to case, but takes
+roughly six to eight weeks
+starting from the moment you (re)submit your complete file.
+Most programmes treat applications on a rolling basis, but a few programmes will check all applications at once or require extra checks and approvals. In these cases, the indicated time for the approval process of 6 to 8 weeks does not apply. For the programmes that evaluate all candidates in one batch, the status update will depend on the date of the programme evaluation. Programmes that require extra checks or approvals, like in cases of security clearances, collaboration with external partners or scholarships, have longer processes for which KU Leuven unfortunately cannot give a time estimation. In any case, the admissions team will contact you as soon as the evaluation is complete, so there’s no need to reach out.
+A general rule of thumb for all applicants is to
+apply as early as possible
+.
+Communicating the status of the application
+Via the Applicant Tool (
+web app
+), an applicant can consult the processing status of one's application file. The processing status is updated automatically and minimizes the need to make specific enquiries via e-mail or phone by individual applicants. The following statuses may appear in the tool:
+Created
+: click “submit” after completing your application. Only submitted files can be evaluated by the admissions office.
+Submitted
+/ resubmitted: the application will be checked for completeness by a case administrator of the admissions office.
+Incomplete
+: if your application is missing some information or documents, you'll get an email notifying you to add the missing documents and resubmit your application. An incomplete file will therefore inevitably prolong the application process, since the above mentioned timing is calculated on a complete file.
+Evaluation in process
+:
+The credential evaluator will check the authenticity and content of your academic diplomas and credentials
+The faculty you've applied to will check and approve or deny your application.
+Communicating the end-result
+At the end of this process the applicant is informed officially via e-mail of the outcome of the application.
+In case of a positive result, the official Letter of Admission will be uploaded in the
+web app
+and the status of the application will change into '
+Admission Letter uploaded
+' or '
+Register now
+'.
+In case of a conditional admission, you will receive an email outlining the conditions of your admission. The status of your application will change into ‘
+Conditionally admitted
+’. Once you meet the conditions please upload a copy of your official score report in your online application and make sure that your score is made available to us for
+online verification
+. Reply to the e-mail to inform us.
+In case of a rejection, you will be informed via e-mail. The status of your application will then change into ‘
+Rejected
+’.
+Need help?
+Do you have questions or are you encountering any issues? Do not hesitate to reach out for help.
+Contact us
+keyboard_arrow_up

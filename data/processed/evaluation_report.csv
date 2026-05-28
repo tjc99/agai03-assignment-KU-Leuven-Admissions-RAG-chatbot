@@ -1,0 +1,11 @@
+Question,Context_Relevance,Faithfulness
+I obtained my previous degree outside of Belgium. Do I need to apply before registering at KU Leuven?,95,100
+I have a secondary school diploma from the Flemish Community. Can I register directly for a bachelor's programme?,95,100
+Can a Flemish bachelor's degree holder register directly for a master's programme?,85,90
+I hold a Dutch VWO diploma and want to apply for a bachelor's programme. What is the procedure?,0,95
+I have a Dutch VWO diploma and want to apply for the Bachelor of European Studies. Can I register directly?,90,90
+Does a Dutch VWO diploma holder need to submit a formal application for the Bachelor of Business Engineering joint degree with UC Louvain?,95,100
+I have a Dutch VWO diploma and want to study the Bachelor of Laws (joint degree with UC Louvain). Do I need to apply formally?,85,90
+I have a Dutch diploma that is not a VWO diploma. How do I apply to KU Leuven?,95,100
+Are there any joint bachelor's programmes with UC Louvain that require a formal application even for Flemish degree holders?,85,90
+Why do joint programmes like the Bachelor of European Studies require a formal application instead of direct registration?,85,90
